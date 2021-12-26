@@ -1,8 +1,13 @@
 
 
+
 ## 实时主流信息搜集       Real_time_information_set
 
-https://github.com/lhl1/Real_time_information_set
+
+
+
+
+
 [Real_time_information_set        ——————github源码](https://github.com/lhl1/Real_time_information_set)
 
 
@@ -12,7 +17,7 @@ https://github.com/lhl1/Real_time_information_set
 
 
 >为解决实时主流信息获取的需求，采用python技术，设计了实时主流信息程序，获得了满意的结果，程序经测试，符合预期需求，为构建一种可以灵活扩展的应用程序提供解决思路或借鉴。
-
+>https://github.com/lhl1/Real_time_information_set
 ## 
 
 
